@@ -50,7 +50,7 @@
     "helius-sdk": "^1.4.1",
     "keyv": "4.5.4",
     "lodash": "^4.17.21",
-    "lucide-react": "^0.468.0",
+    "lucide-react": "^0.469.0",
     "mem0ai": "^1.0.30",
     "next": "15.1.2",
     "next-safe-action": "^7.10.2",
